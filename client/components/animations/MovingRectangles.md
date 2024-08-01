@@ -8,7 +8,7 @@
   
   
   # MovingRectangles.jsx
-  ```markdown
+
 # Documento Detallado del Proyecto: SlidingRectangles
 
 ## Resumen General
@@ -209,5 +209,4 @@ const SlidingRectangles = () => {
 };
 
 export default SlidingRectangles;
-  ```
   
