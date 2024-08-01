@@ -8,7 +8,7 @@
   
   
   # FadeTransition.jsx
-  ```markdown
+
 # Documento Detallado del Proyecto
 
 ## Resumen General
@@ -154,5 +154,4 @@ const FadeInTransition = ({ children, delay = 0 }) => {
 };
 
 export default FadeInTransition;
-  ```
   
